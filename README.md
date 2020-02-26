@@ -1,2 +1,2 @@
 # Unity-Project
-New Unity Game
+This is the first assignment given by Outscal
